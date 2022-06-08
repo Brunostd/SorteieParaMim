@@ -82,7 +82,7 @@ fun Body(navController: NavController) {
                 modifier = Modifier.size(30.dp)
                 )
             Text(
-                text = "Venda realizada",
+                text = "Vendas",
                 color = Color.Black,
                 fontSize = 24.sp,
                 fontWeight = FontWeight.Bold
